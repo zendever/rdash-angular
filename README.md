@@ -4,7 +4,7 @@
 
 rdash-angular is an AngularJS implementation of the RDash admin dashboard. The dashboard uses a small number of modules to get you started, along with some handy directives and controllers to speed up development using the dashboard.
 
-Check out the live example!
+Check out the [live example](http://rdash.github.io/)!
 
 ## Usage
 ### Requirements
@@ -14,7 +14,7 @@ Check out the live example!
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/rdash/rdash-angular.git`
-2. Install the NodeJS dependencies: `sudo npm install`.
+2. Install the NodeJS dependencies: `npm install`.
 3. Install the Bower dependencies: `bower install`.
 4. Run the gulp build task: `gulp build`.
 5. Run the gulp default task: `gulp`. This will build any changes made automatically, and also run a live reload server on [http://localhost:8888](http://localhost:8888).
